@@ -1,13 +1,8 @@
-//I pledge on my honor that I have not given or received any unauthorized assistance on this assignment/examination.
-//Justin Frankle
-//UID:114637642
-//username:jfrankle
-//section:0101
 
 package taManager;
 
 //this class extends the TA class and represents a Graduate TA 
-//adds TAType UNDERGRADUATE to the object
+//adds TAType GRADUATE to the object
 public class GraduateTA extends TA{
 	
 	private TAManager.TAType type;
