@@ -1,13 +1,5 @@
-//I pledge on my honor that I have not given or received any unauthorized assistance on this assignment/examination.
-//Justin Frankle
-//UID:114637642
-//username:jfrankle
-//section:0101
 
 package taManager;
-
-// (c) Larry Herman, 2017.  You are allowed to use this code yourself, but
-// not to provide it to anyone else.
 
 public interface TAManager {
 
